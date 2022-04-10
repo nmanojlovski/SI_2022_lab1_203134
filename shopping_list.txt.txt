@@ -1,0 +1,11 @@
+kiselo mleko x3
+puter x2
+jogurt x3
+<<<<<<< HEAD
+cveklo x1
+mleko x3
+=======
+morkovi x1
+mleko x2
+kompiri x5
+>>>>>>> branch2

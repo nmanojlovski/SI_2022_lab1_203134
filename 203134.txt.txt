@@ -1,0 +1,18 @@
+git clone https://github.com/nmanojlovski/SI_2022_lab1_203134.git /go klonirame repozitoriumot
+git add shopping_list.txt  /pravime add na noviot txt file
+git status        / proverka na statusot, odnosno porveruvame na sto treba da napravime add/commit        
+git commit -m "“Add 5 items to the shopping list"
+git branch branch1  /pravime nova granka
+git branch branch2
+git checkout branch1 /se prefrlame na novata granka
+git checkout branch2
+git checkout -a -m “Change quantity of item #2” /so ista komanda pravime i add i commit
+git checkout master / se prefrlame na grankata master
+git branch / gi listame site granki
+git commit -m "Modify item #4 and add item #6"
+git merge branch1 /spojuvanje na grankata branch1 so master
+git merge branch2
+
+da, se slucija konflikti
+conflict resavame so brisenje na nekoja granka
+pri izvrsuvanje na strategijata bila upotrebena rekruzivnata strategija
