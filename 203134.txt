@@ -15,4 +15,4 @@ git merge branch2
 
 da, se slucija konflikti
 conflict resavame so brisenje na nekoja granka
-pri izvrsuvanje na strategijata bila upotrebena rekruzivnata strategijaa
+pri izvrsuvanje na strategijata bila upotrebena rekruzivnata strategija
