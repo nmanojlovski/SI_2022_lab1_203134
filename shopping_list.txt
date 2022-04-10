@@ -3,3 +3,4 @@ puter x1
 jogurt x3
 morkovi x1
 mleko x2
+kompiri x5
